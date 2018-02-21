@@ -27,3 +27,7 @@ function destructivelyRemoveFirstKitten() {
 //   var newKittens = kittens.slice(1)
 //   return newKittens
 // }
+
+function removeLastKitten() {
+  return kittens.pop()
+}
