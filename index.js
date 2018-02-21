@@ -32,6 +32,6 @@ function removeLastKitten() {
   return kittens.pop()
 }
 
-functino removeFirstKitten() {
+function removeFirstKitten() {
   return kittens.shift()
 }
