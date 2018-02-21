@@ -23,7 +23,7 @@ function destructivelyRemoveFirstKitten() {
 //   return newKittens
 // }
 
-function prependKitten(name) {
-  var newKittens = kittens.slice(1)
-  return newKittens
-}
+// function prependKitten(name) {
+//   var newKittens = kittens.slice(1)
+//   return newKittens
+// }
